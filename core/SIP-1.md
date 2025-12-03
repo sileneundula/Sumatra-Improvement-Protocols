@@ -21,6 +21,10 @@ The latest block update is one that serves to keep up with latest blocks. The bl
 - [ ] Tx Block Number (hash)
   - [ ] A Tx Block Number is a confirmation made on chain between lattices. It can also generate owned,external addresses (OEA).
      
+### Domain System
+
+Add domain registrations based on pivot. 8-bytes
+     
 
 ## How To Do Cross-Communication With Multiple Lattices?
 
